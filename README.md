@@ -56,7 +56,7 @@ workon {{project_name}}   # reactivate existing environment
 
 Clone GitHub Project,
 ```bash
-git@github.com:saadmk11/banking-system.git
+git@github.com:host/banking-system.git
 
 cd banking-system
 ```
@@ -90,8 +90,8 @@ celery -A bankingsystem beat -l info
 ```
 
 ## Images:
-![alt text](https://i.imgur.com/QZwaEHX.png)
+##![alt text](https://i.imgur.com/QZwaEHX.png)
 #
-![alt text](https://i.imgur.com/HTcqWcw.png)
+##![alt text](https://i.imgur.com/HTcqWcw.png)
 #
-![alt text](https://i.imgur.com/HHsmJVD.png)
+#![alt text](https://i.imgur.com/HHsmJVD.png)
